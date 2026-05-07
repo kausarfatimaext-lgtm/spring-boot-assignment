@@ -1,0 +1,3 @@
+CREATE DATABASE IF NOT EXISTS `product-service`;
+CREATE DATABASE IF NOT EXISTS `order-service`;
+CREATE DATABASE IF NOT EXISTS `notification-service`;
